@@ -11,7 +11,7 @@ import SwiftUI
 struct BeRealDiaryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BeRealDiary()
         }
     }
 }
